@@ -1,0 +1,6 @@
+{
+    "Efi_Drive": "E",
+    "OnlyWriteToEfiBoot": false,
+    "ImageEnabled": true,
+    "APIServer": "https://pro-psurf-app.glb.inc.hp.com"
+}
